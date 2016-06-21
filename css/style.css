@@ -1,13 +1,18 @@
 body{
-	background-color:#66ffe0;
-	color:   #00ff99;
+	background-color:	#66ffe0;
+	color:   #0000FF;
 }
 
 h1{
 	font-size: 40px;
-	color: red;
+	color: black;
 }
 
 ol{
 	font-size: 50px;
+}
+#PUGS{
+	height: 500px;
+	width: 500px;
+	object-position: center;
 }
